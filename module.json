@@ -142,5 +142,20 @@
       },
       "system": "pf2e"
     }
-  ]
+  ],
+  "flags": {
+    "pf2e-sailors-of-the-sightless-sea": {
+      "pf2e-homebrew": {
+		"creatureTraits": {
+			"patchman": "Patchman"
+		},
+        "featTraits": {
+          "patchman": "Patchman",
+		  "familial": "Familial",
+		  "mutagenic": "Mutagenic",
+		  "exploit": "Exploit"
+        }
+      }
+    }
+  }
 }
