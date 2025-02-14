@@ -1,10 +1,10 @@
-# pf2e-retinues-of-the-roaming-hero
+# pf2e-sailors-of-the-sightless-sea
 -
-Foundry VTT support for Retinues of the Roaming Hero, a PF2E supplement by OfflineEnigma/Michael Hosp/Me
+Foundry VTT support for Sailors of the Sightless Sea, a PF2E supplement by OfflineEnigma/Michael Hosp/Me
 
 Module can also be found in the Foundry module browser, or here:
 
-https://foundryvtt.com/packages/pf2e-retinues-of-the-roaming-hero
+[TBD]
 
 Known Issues
 - 
